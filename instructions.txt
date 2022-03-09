@@ -1,0 +1,20 @@
+// React & Axios Exercise \\
+
+// Estimated Time of Completion 45min 
+
+// Bronwyn 
+// Potgieter 
+// 200089
+// mockAssessment
+
+1. Create a new GitHub repository and name it 'studnetNumber'_mockAssessment
+2. Link the repo to your local GitHub desktop directory 
+3. Conduct a fresh installation of React and remove all the unnecessary files so the DOM is blank
+4. Conduct your first commit and name it 'initialized repo & react setup'
+5. Create 4 Components, 'Navigation' , 'ComponentOne' , 'ComponentTwo' & 'ComponentThree'
+6. Style the navigation appropriately and add some form of Navigation text for each component, add the required syntax for routing 
+7. Install the 'react-router-dom' dependency and add Routing to your application
+8. Install the 'Axois' dependency and select any endpoint of your choice 
+9. Complete the Axios request by including the required code to create a Promise, ensure to catch any errors. 
+
+// Do not delete this file once done, leave it in your repo! 
